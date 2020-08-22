@@ -1,0 +1,5 @@
+### Get all stories
+GET http://localhost:4000/story
+
+### Create Story
+POST http://localhost:4000/story
